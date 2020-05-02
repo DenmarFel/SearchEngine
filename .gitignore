@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+
+# Results
+partial_indexes/
+
+# Directories
+ANALYST/
+DEV/
+
+# misc
+.vscode/
